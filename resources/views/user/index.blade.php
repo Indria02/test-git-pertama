@@ -1,7 +1,7 @@
 @extends('layouts.App')
 @section('content')
     <div class="container">
-        <h1>Halo {{ $myName }}</h1>
+        <h1>Halo Sayang {{ $myName }}</h1>
 
 
         @if ($usia > 25)
